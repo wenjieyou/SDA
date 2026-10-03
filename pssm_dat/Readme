@@ -1,1 +1,4 @@
+PSI-BLAST is used to calculate PSSM matrices, and all PSSMs are saved in MATLAB data format to facilitate subsequent reading.
 
+
+使用psi-blast计算pssm矩阵，所有pssm保存成matlab数据格式，方便后续读取。
