@@ -1,0 +1,6 @@
+Github：
+https://github.com/QUST-BSBRC/PsePSSM-DCCA-LFDA
+
+
+
+Prediction of subcellular location of apoptosis proteins by incorporating PsePSSM and DCCA coefficient based on LFDA dimensionality reduction
