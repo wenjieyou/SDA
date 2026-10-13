@@ -1,6 +1,8 @@
 # SDA
 Selective Data Augmentation for Few-Shot Protein Function Prediction
 
+Limited sequence data? Want to use mainstream deep learning models? Try our data augmentation strategy.
+
 ## Usage
 
 The workflow consists of three steps:
